@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junjslee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning data structures, algorithms, math (linear algebra), and machine learning.
-- 💞️ I’m looking for summer fintech and data science internships for 2023
+- 👀 I’m interested in quantitative finance, video gaming industry, and data science.
+- 🌱 I’m currently learning data structures & algorithms, math (linear algebra), machine learning using python, Java, and C++...
+- 💞️ I’m looking for summer fintech and data science internships!
 - 📫 How to reach me: junseong.lee652@gmail.com; univ email - jl193@illinois.edu 
