@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junjslee
-- 👀 I’m interested in quantitative finance, video gaming industry, and data science.
+- 👀 I’m interested in quantitative finance, game theory, data science, and machine learning + NLP.
 - 🌱 I’m currently learning data structures & algorithms, math (linear algebra), machine learning using python, Java, and C++...
 - 💞️ I’m looking for summer fintech and data science internships!
 - 📫 How to reach me: junseong.lee652@gmail.com; university email - jl193@illinois.edu 
