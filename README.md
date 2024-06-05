@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junjslee
 - 👀 I’m interested in cloud management, finance, development, data science, and machine learning + NLP.
 - 🌱 I’m currently learning data structures & algorithms, math (linear algebra), developing using python, Javascript, CSS, HTML...
-- 💞️ I’m looking for summer internships!
+- 💞️ I enjoy playing 4-ball billiards!!
 - 📫 How to reach me: junseong.lee652@gmail.com; university email - jl193@illinois.edu 
