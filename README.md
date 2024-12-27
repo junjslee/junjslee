@@ -8,7 +8,7 @@
 **Undergraduate in B.S. Data Science + Finance, with minor in Computer Science**  *University of Illinois at Urbana-Champaign*  
 *August 2021 ~ May 2027*
 
-**Army Sergeant**  *U.S. Army*  
+**Sergeant (E-5)**  *U.S. Army*  
 *October 2023 - Present*  
 
 
