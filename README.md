@@ -30,7 +30,7 @@ Cloud Architecture
 ### 🚧 **In Progress Projects** 🚧
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
 |-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
-| **Deep Learning Hands-on Project** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Pytorch, Tensorflow, OpenCV    | Me   | Oct. 2024 - Present      | [Project Link](#)  |
+| **Deep Learning Hands-on Project** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Pytorch    | Me   | Oct. 2024 - Present      | [Project Link](#)  |
 
 ## 🏆 Awards 🏆 
 - Army Achievement Medal
