@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m Jun
 - 👀 I’m interested in problem solving through the applications of data science, computer science.
-- 🌱 I’m currently gaining knowledge in the following areas: computer networks, data structures & algorithms, system design, machine learning.
-- 💞️ I enjoy playing 4-ball billiards, basketball, and going fishing!
+- 🌱 I’m currently gaining knowledge in the following areas: computer networks, data structures & algorithms, system design, deep learning.
+- 💞️ I enjoy playing 4-ball billiards, soccer, basketball, and going fishing!
 - 📫 How to reach me: junseong.lee652@gmail.com; jl193@illinois.edu
 
 ## 🎓 Education 🎓
-**Undergraduate in B.S. Data Science + Finance, with minor in Computer Science**  *University of Illinois at Urbana-Champaign*  
+**Undergraduate in B.S. Data Science + Finance, minor in Computer Science**  *University of Illinois at Urbana-Champaign*  
 *August 2021 ~ May 2027*
 
 **Sergeant (E-5)**  *U.S. Army*  
@@ -13,8 +13,8 @@
 
 
 ## 🎯 Interest 🎯👨‍🔬
-Machine Learning
-Cloud Architecture
+Artificial Intelligence (in Medical and Finance)
+Cloud Architecture and deployment
 
 ## 🔥 Project Lists 🔥
 
