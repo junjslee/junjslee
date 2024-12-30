@@ -34,6 +34,7 @@ Cloud Architecture and deployment
 
 ## 🏆 Awards 🏆 
 - Army Achievement Medal
+- Army Commendation Medal
 
 ## 📬 Contact Me 📬
 - **Email:** [junseong.lee652@gmail.com](mailto:junseong.lee652@gmail.com)
