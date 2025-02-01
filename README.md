@@ -8,13 +8,17 @@
 **Undergraduate in B.S. Data Science + Finance, minor in Computer Science**  *University of Illinois at Urbana-Champaign*  
 *August 2021 ~ May 2027*
 
+## 💼 Experience 💼
+**Medical AI Research Intern**  *Medical Imaging and Intelligence Reality Lab*  
+*January 2025 - Present*  
+
 **Sergeant (E-5)**  *U.S. Army*  
 *October 2023 - Present*  
 
 
 ## 🎯 Interest 🎯👨‍🔬
-Artificial Intelligence (in Medical and Finance)
-Cloud Architecture and deployment
+Artificial Intelligence (in Medical and Finance) & 
+Cloud Architecture + deployment
 
 ## 🔥 Project Lists 🔥
 
@@ -30,11 +34,11 @@ Cloud Architecture and deployment
 ### 🚧 **In Progress Projects** 🚧
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
 |-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
-| **Deep Learning Hands-on Project** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Pytorch    | Me   | Oct. 2024 - Present      | [Project Link](#)  |
+| **Medical AI Research** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Deep Learning    | MI2RL   | Jan. 2025      | [Project Link](#)  |
 
 ## 🏆 Awards 🏆 
-- Army Achievement Medal
 - Army Commendation Medal
+- Army Achievement Medal
 
 ## 📬 Contact Me 📬
 - **Email:** [junseong.lee652@gmail.com](mailto:junseong.lee652@gmail.com)
