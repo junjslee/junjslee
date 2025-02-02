@@ -4,11 +4,11 @@
 - 💞️ I enjoy playing 4-ball billiards, soccer, basketball, and going fishing!
 - 📫 How to reach me: junseong.lee652@gmail.com; jl193@illinois.edu
 
-## 🎓 Education 🎓
+## 🎓 Education 
 **Undergraduate in B.S. Data Science + Finance, minor in Computer Science**  *University of Illinois at Urbana-Champaign*  
 *August 2021 ~ May 2027*
 
-## 💼 Experience 💼
+## 💼 Experience 
 **Medical AI Research Intern**  *Medical Imaging and Intelligence Reality Lab, Asan Medical Center*  
 *January 2025 - Present*  
 
@@ -16,13 +16,13 @@
 *October 2023 - Present*  
 
 
-## 🎯 Interest 🎯👨‍🔬
+## 🎯 Interest 
 Artificial Intelligence (in Medical and Finance) & 
 Cloud Architecture + deployment
 
-## 🔥 Project Lists 🔥
+## 🛠️ Project Lists 
 
-### ✅ **Completed Projects** ✅
+### ✅ **Completed Projects** 
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
 |-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
 | **Heart Disease Prediction** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |   Machine Learning   | Me          | Sept. 2024 - Oct. 2024              | [Project Link](#)  |
@@ -36,10 +36,10 @@ Cloud Architecture + deployment
 |-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
 | **Medical AI Research** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Deep Learning    | MI2RL   | Jan. 2025      | [Project Link](#)  |
 
-## 🏆 Awards 🏆 
+## 🏆 Awards 
 - Army Commendation Medal
 - Army Achievement Medal
 
-## 📬 Contact Me 📬
+## 📬 Contact Me 
 - **Email:** [junseong.lee652@gmail.com](mailto:junseong.lee652@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](#)
