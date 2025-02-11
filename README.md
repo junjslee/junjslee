@@ -25,8 +25,10 @@ Cloud Architecture + deployment
 ### ✅ **Completed Projects** 
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
 |-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
+| **Will You Be Ny Valentine?** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |   HTML, CSS, Javascript   | Me          | Feb. 2024 - Feb. 2024              | [Project Link](#)  |
+| **Portfolio Website** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |   Full Stack Development   | Me          | Feb. 2024 - Feb. 2024              | [Project Link](#)  |
+| **2nd Infantry Division Event Management Automation** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Full Stack Development, AWS | 2nd Infantry Divison, U.S. Army | Feb. 2024 - Dec. 2024    | [Project Link](#)  |
 | **Heart Disease Prediction** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |   Machine Learning   | Me          | Sept. 2024 - Oct. 2024              | [Project Link](#)  |
-| **2nd Infantry Division Event Management Automation** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Full Stack Development | 2nd Infantry Divison, U.S. Army | Feb. 2024 - May. 2024    | [Project Link](#)  |
 |**Facial Recognition using Principal Component Analysis** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Linear Algebra | UIUC  | Mar. 2023 - Mar. 2023    | [Project Link](#)  |
 | **S&P Forecast using Macroeconomic Indicators** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Time Series Analysis  | Alpha Investment Management Partners | Nov. 2022 - Jan. 2023| [Project Link](#) |
 ---
@@ -39,6 +41,7 @@ Cloud Architecture + deployment
 ## 🏆 Awards 
 - Army Commendation Medal
 - Army Achievement Medal
+- The President's Volunteer Service Award - Gold
 
 ## 📬 Contact Me 
 - **Email:** [junseong.lee652@gmail.com](mailto:junseong.lee652@gmail.com)
