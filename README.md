@@ -9,7 +9,7 @@
 *August 2021 ~ May 2027*
 
 ## 💼 Experience 
-**Medical AI Research Intern**  *Medical Imaging and Intelligence Reality Lab, Asan Medical Center*  
+**Medical AI Research Intern**  *Medical Imaging and Intelligent Reality Lab, Asan Medical Center*  
 *January 2025 - Present*  
 
 **Sergeant (E-5)**  *U.S. Army*  
