@@ -5,7 +5,7 @@
 - 📫 How to reach me: junseong.lee652@gmail.com; jl193@illinois.edu
 
 ## 🎓 Education 
-**Undergraduate in B.S. Data Science + Finance, minor in Computer Science**  *University of Illinois at Urbana-Champaign*  
+**B.S. Data Science + Finance, Minor in Computer Science**  *University of Illinois at Urbana-Champaign*  
 *August 2021 ~ May 2027*
 
 ## 💼 Experience 
