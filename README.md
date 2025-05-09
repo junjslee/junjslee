@@ -10,15 +10,15 @@
 
 ## 💼 Experience 
 **Medical AI Research Intern**  *Medical Imaging and Intelligent Reality Lab, Asan Medical Center*  
-*January 2025 - Present*  
+*Feb 2025 - Present*  
 
 **Sergeant (E-5)**  *U.S. Army*  
-*October 2023 - Present*  
+*Oct 2023 - Apr 2025*  
 
 
 ## 🎯 Interest 
-Artificial Intelligence (in Medical and Finance) & 
-Cloud Architecture + deployment
+Artificial Intelligence (in Medical and Finance domain) & 
+Information security (cloud and networks)
 
 ## 🛠️ Project Lists 
 
