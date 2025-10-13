@@ -9,7 +9,7 @@
 *August 2021 ~ May 2027*
 
 ## 💼 Experience 
-**Medical AI Research Intern**  *Medical Imaging and Intelligent Reality Lab, Asan Medical Center*  
+**AI Research Engineer Intern**  *Medical Imaging and Intelligent Reality Lab, Asan Medical Center*  
 *Feb 2025 - Present*  
 
 **Sergeant (E-5)**  *U.S. Army*  
@@ -18,6 +18,7 @@
 
 ## 🎯 Interest 
 Artificial Intelligence (in Medical and Finance domain) & 
+Software Engineering &
 Information security (cloud and networks)
 
 ## 🛠️ Project Lists 
@@ -36,7 +37,7 @@ Information security (cloud and networks)
 ### 🚧 **In Progress Projects** 🚧
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
 |-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
-| **Medical AI Research** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Deep Learning    | MI2RL   | Jan. 2025      | [Project Link](#)  |
+| **Applied AI/ML Research** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Imaging & Deep Learning    | MI2RL   | Jan. 2025      | [Project Link](#)  |
 
 ## 🏆 Awards 
 - Army Commendation Medal
