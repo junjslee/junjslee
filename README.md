@@ -26,6 +26,8 @@ Information security (cloud and networks)
 ### ✅ **Completed Projects** 
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
 |-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
+| **A Multimodal Approach for Estimation of Recurrence and Death in Post‐LT HCC Patients using Pre-LT CT Scans and Clinical Information** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |   Survival Analysis, 3D CT Processing, Multimodal Fusion   | MI2RL          | Apr. 2025 - Present              | [Project Link](#)  |
+| **NICU Pneumoperitoneum Classification + HCI Research** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |   Deep Learning, 2D Imaging   | MI2RL          | Feb 2025 - Present              | [Project Link](#)  |
 | **Will You Be Ny Valentine?** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |   HTML, CSS, Javascript   | Me          | Feb. 2024 - Feb. 2024              | [Project Link](#)  |
 | **Portfolio Website** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) |   Full Stack Development   | Me          | Feb. 2024 - Feb. 2024              | [Project Link](#)  |
 | **2nd Infantry Division Event Management Automation** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | Full Stack Development, AWS | 2nd Infantry Divison, U.S. Army | Feb. 2024 - Dec. 2024    | [Project Link](#)  |
@@ -37,7 +39,7 @@ Information security (cloud and networks)
 ### 🚧 **In Progress Projects** 🚧
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
 |-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
-| **Applied AI/ML Research** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Imaging & Deep Learning    | MI2RL   | Jan. 2025      | [Project Link](#)  |
+| **Applied AI/ML Research** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Imaging & Deep Learning    | MI2RL   | Jan. 2025 - Present     | [Project Link](#)  |
 
 ## 🏆 Awards 
 - Army Commendation Medal
