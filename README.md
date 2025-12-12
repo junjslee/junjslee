@@ -5,7 +5,8 @@
 - 📫 How to reach me: junseong.lee652@gmail.com; jl193@illinois.edu
 
 ## 🎓 Education 
-**B.S. Data Science + Finance, Minor in Computer Science**  *University of Illinois at Urbana-Champaign*  
+**B.S. Data Science + Finance, Minor in Computer Science**  
+*University of Illinois at Urbana-Champaign*  
 *August 2021 ~ May 2027*
 
 ## 💼 Experience 
@@ -17,9 +18,10 @@
 
 
 ## 🎯 Interest 
+Cognitive Science + Mathematical Modeling of Human Brain &
 Artificial Intelligence (in Medical and Finance domain) & 
 Software Engineering &
-Information security (cloud and networks)
+Agentic AI and System Design
 
 ## 🛠️ Project Lists 
 
@@ -39,7 +41,7 @@ Information security (cloud and networks)
 ### 🚧 **In Progress Projects** 🚧
 | **Project**                                           | **Skills**                                  | **Organizer**                                            | **Period**              | **Link**           |
 |-------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|-------------------------|--------------------|
-| **Applied AI/ML Research** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Imaging & Deep Learning    | MI2RL   | Jan. 2025 - Present     | [Project Link](#)  |
+| **AI/ML Research Intern** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | Medical Imaging & Deep Learning    | MI2RL   | Jan. 2025 - Present     | [Project Link](#)  |
 
 ## 🏆 Awards 
 - Army Commendation Medal
@@ -48,4 +50,4 @@ Information security (cloud and networks)
 
 ## 📬 Contact Me 
 - **Email:** [junseong.lee652@gmail.com](mailto:junseong.lee652@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](#)
+- **LinkedIn:** [Junseong Lee](https://www.linkedin.com/in/junseong-lee/)
