@@ -10,7 +10,7 @@
 *August 2021 ~ May 2027*
 
 ## 💼 Experience 
-**AI Research Assistant** *MONET Lab*
+**Multimodal AI Research Assistant** *MONET Lab*
 *Dec 2025 - Present*
 **AI Research Engineer Intern**  *Medical Imaging and Intelligent Reality Lab, Asan Medical Center*  
 *Feb 2025 - Present*  
@@ -29,6 +29,7 @@ Agentic AI and System Design
 - Army Commendation Medal
 - Army Achievement Medal
 - The President's Volunteer Service Award - Gold
+- National Honor Roll (Top 5%), AMC 8 Mathematics Competition
 
 ## 📬 Contact Me 
 - **Email:** [junseong.lee652@gmail.com](mailto:junseong.lee652@gmail.com)
