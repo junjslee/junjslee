@@ -10,8 +10,12 @@
 *August 2021 ~ May 2027*
 
 ## 💼 Experience 
-**Multimodal AI Research Assistant** *MONET Lab*
+**Undergraduate AI Researcher** *MONET Lab*
 *Dec 2025 - Present*
+
+**Compuer Vision Research Assistant** *KSEA & Jang Lab*
+*Dec 2025 - Present*
+
 **AI Research Engineer Intern**  *Medical Imaging and Intelligent Reality Lab, Asan Medical Center*  
 *Feb 2025 - Present*  
 
@@ -22,8 +26,7 @@
 ## 🎯 Interest 
 Cognitive Science + Mathematical Modeling of Human Brain &
 Artificial Intelligence (in Medical and Finance domain) & 
-Software Engineering &
-Agentic AI and System Design
+System Deployment & Agentic AI and Latent Reasoning
 
 ## 🏆 Awards 
 - Army Commendation Medal
